@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tema personalizado para deixar a RatingBar amarela -->
+    <style name="RatingBarYellow" parent="Theme.MaterialComponents.Light">
+        <item name="colorControlActivated">#FFD700</item>
+    </style>
+
+</resources>
